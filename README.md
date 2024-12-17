@@ -1,6 +1,7 @@
 # Sunglass Filter Project
 
 This project applies a virtual sunglass effect to real-time webcam footage using OpenCV and Python. It detects the user's eyes and overlays a sunglass image, complete with reflections for a more realistic look.
+![{90EA4BF0-E81B-449D-8D44-A2E29869FAE5}](https://github.com/user-attachments/assets/b7e59853-b26b-4b59-8a9f-93a32930047c)
 
 ## Features
 - Real-time face and eye detection using Haar cascades.
